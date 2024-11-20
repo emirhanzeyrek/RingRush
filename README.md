@@ -1,7 +1,7 @@
 # Ring Rush
 In the game, you can shrink the moving ring to match the size of the cylinder by tapping the screen, collect diamonds on the cylinders to extend the remaining time, and break records. But remember, if you touch the black cylinders, the game is over.
 
-## Technologies Used
+## Technologies
 * Development Environment: Unity
 * Programming Language: C#
 * Modeling: Blender
