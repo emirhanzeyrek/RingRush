@@ -8,5 +8,5 @@ In the game, you can shrink the moving ring to match the size of the cylinder by
 * OS: Android
 
 ## Screenshots
-<img width="325" alt="image" src="https://github.com/emirhanzeyrekk/RingPipelineUnity3DMobileGame/assets/121854589/f425c6d0-fcba-49f0-be9b-31ccfaeb77f5">
-<img width="325" alt="image" src="https://github.com/emirhanzeyrekk/RingPipelineUnity3DMobileGame/assets/121854589/22d7485d-63c5-4c45-aa11-779d5dcfa7a3">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/04e5c93f-96de-4c14-9ec3-99ffa01c87f9">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/09c12006-0457-485e-b421-2992bbc4b2bb">
